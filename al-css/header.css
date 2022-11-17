@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    position: absolute;
+    width: 1240px;
+    height: 50px;
+    left: 40px;
+    top: 50px;
+}
+
+.section{
+    position: absolute;
+    width: 1240px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+
+}
+.menu-button{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+}
+
+.icon{
+    position: absolute;
+    width: 20px;
+    height: 10px;
+    left: 15px;
+    top: 5px;
+}
+
+
+.menu1{
+    position: absolute;
+    left: 1.21%;
+    right: 97.18%;
+    top: 80%;
+    bottom: 40%;
+    background: #234CAD;
+    border-radius: 1.5px;
+
+}
+.menu2{
+    position: absolute;
+    left: 1.21%;
+    right: 97.18%;
+    top: 40%;
+    bottom: 56%;
+    background: #234CAD;
+    border-radius: 1.5px;
+
+}
+
+.navigation{
+    position: absolute;
+    left: 33.63%;
+    right: 35.89%;
+    top: 22%;
+    bottom: 20%;
+}
+
+.h{
+    position: absolute;
+    height: 29px;
+    left: 0%;
+    right: 86.77%;
+    top: calc(50% - 29px/2);
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 29px;
+    /* identical to box height, or 161% */
+
+
+    color: #234CAD;
+}
+.p{
+    position: absolute;
+    height: 29px;
+    left: 26.19%;
+    right: 56.61%;
+    top: calc(50% - 29px/2);
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 29px;
+    /* identical to box height, or 161% */
+
+
+    color: #234CAD;
+}
+.a{
+    position: absolute;
+    height: 29px;
+    left: 56.61%;
+    right: 29.89%;
+    top: calc(50% - 29px/2);
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 29px;
+    /* identical to box height, or 161% */
+    
+    
+    color: #234CAD;
+}
+.c{
+    position: absolute;
+    height: 29px;
+    left: 83.07%;
+    right: 0%;
+    top: calc(50% - 29px/2);
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 29px;
+    /* identical to box height, or 161% */
+    
+    
+    color: #234CAD;
+}
+.login{
+    position: absolute;
+    left: 76.21%;
+    right: 12.9%;
+    top: 0%;
+    bottom: 0%;       
+}
+
+.text1{
+    position: absolute;
+    height: 29px;
+    left: 26.67%;
+    right: 25.93%;
+    top: calc(50% - 29px/2 + 0.5px);
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 29px;
+    /* identical to box height, or 161% */
+    
+    text-align: center;
+    
+    color: #234CAD;  
+}
+.back1{
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 15%;
+    bottom: -12%;
+    
+    border: 2px solid #234CAD;
+    border-radius: 25px;   
+}
+
+.signup{
+    position: absolute;
+    left: 89.11%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;       
+}
+
+.text2{
+    position: absolute;
+    height: 29px;
+    left: 26.67%;
+    right: 25.93%;
+    top: calc(50% - 29px/2 + 0.5px);
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 29px;
+    /* identical to box height, or 161% */
+    
+    text-align: center;
+    
+    color: #234CAD;  
+}
+.back2{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    background: #F2F6FF;
+    border-radius: 25px;  
+}
+.hero{
+    position: absolute;
+    width: 1375px;
+    height: 4504px;
+    left: 40px;
+    top: 100px;    
+}
+
+.text-right{
+    position: absolute;
+    width: 1015px;
+    height: 575px;
+    left: 20px;
+    top: 1050px;    
+}
+.Icons{
+    position: absolute;
+    width: 1240px;
+    height: 100px;
+    left: 40px;
+    top: 865px;    
+}
